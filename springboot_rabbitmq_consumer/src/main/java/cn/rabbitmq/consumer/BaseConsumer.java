@@ -12,6 +12,7 @@ import com.rabbitmq.client.Channel;
 import cn.rabbitmq.entity.MessageDetail;
 import cn.rabbitmq.util.FastJsonUtil;
 
+
 public abstract class BaseConsumer implements Consumer{
 	@Override
 	@RabbitListener(queues="#{'${rabbitmq.listener.queue.name}'.split(',')}")
