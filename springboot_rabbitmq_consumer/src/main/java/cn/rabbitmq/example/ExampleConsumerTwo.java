@@ -12,7 +12,6 @@ import com.rabbitmq.client.Channel;
 import cn.rabbitmq.consumer.Consumer;
 import cn.rabbitmq.entity.MessageDetail;
 import cn.rabbitmq.util.FastJsonUtil;
-
 @Component
 public class ExampleConsumerTwo implements Consumer{
 	//第一种情况见{@link ExampleConsumerOne}
