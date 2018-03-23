@@ -14,6 +14,7 @@ import org.springframework.context.annotation.Configuration;
 import cn.rabbitmq.util.ExchangeFactory;
 import cn.rabbitmq.util.PropertiesValueUtil;
 @Configuration
+
 public  class DefaultRabbitMQConfig {
 	
 	@Autowired
