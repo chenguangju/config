@@ -1,0 +1,12 @@
+C:\guangju\workspace\springboot_rabbitma_producer\src\main\java\cn\App.java
+C:\guangju\workspace\springboot_rabbitma_producer\src\main\java\cn\rabbitmq\send\MessageSender.java
+C:\guangju\workspace\springboot_rabbitma_producer\src\main\java\cn\rabbitmq\send\SendStatusMessage.java
+C:\guangju\workspace\springboot_rabbitma_producer\src\main\java\cn\rabbitmq\util\ExchangeFactory.java
+C:\guangju\workspace\springboot_rabbitma_producer\src\main\java\cn\rabbitmq\util\FastJsonUtil.java
+C:\guangju\workspace\springboot_rabbitma_producer\src\main\java\cn\rabbitmq\test\Message.java
+C:\guangju\workspace\springboot_rabbitma_producer\src\main\java\cn\rabbitmq\util\PropertiesValueUtil.java
+C:\guangju\workspace\springboot_rabbitma_producer\src\main\java\cn\rabbitmq\util\HttpUtils.java
+C:\guangju\workspace\springboot_rabbitma_producer\src\main\java\cn\rabbitmq\config\RabbitConfig.java
+C:\guangju\workspace\springboot_rabbitma_producer\src\main\java\cn\rabbitmq\controller\MyController.java
+C:\guangju\workspace\springboot_rabbitma_producer\src\main\java\cn\rabbitmq\RetryCache.java
+C:\guangju\workspace\springboot_rabbitma_producer\src\main\java\cn\rabbitmq\config\DefaultRabbitMQConfig.java
