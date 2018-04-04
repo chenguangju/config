@@ -1,0 +1,4 @@
+<beans>
+	<bean id="userController" class="spring.controller.UserController"></bean>
+	<bean id="userService" class="spring.service.UserService"></bean>
+</beans>
